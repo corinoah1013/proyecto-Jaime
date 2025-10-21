@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+
+# Detener cualquier instancia en ejecución
+killall jaime 2>/dev/null || true
+
+exit 0

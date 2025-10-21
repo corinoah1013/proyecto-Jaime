@@ -1,0 +1,15 @@
+#!/bin/bash
+set -e
+
+# Hacer ejecutable el script principal
+chmod +x /usr/bin/jaime
+
+# Actualizar base de datos de aplicaciones
+if [ -x /usr/bin/update-desktop-database ]; then
+    update-desktop-database -q
+fi
+
+echo "Jaime System Cleaner instalado correctamente."
+echo "Puedes ejecutarlo desde el menú de aplicaciones o escribiendo 'jaime' en la terminal."
+
+exit 0

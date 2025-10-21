@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Jaime System Care
+Comment=Herramienta de mantenimiento y optimización del sistema
+Exec=jaime
+Icon=jaime
+Terminal=false
+Categories=System;Utility;
+Keywords=care;system;maintenance;optimization;backup;
+StartupNotify=true
