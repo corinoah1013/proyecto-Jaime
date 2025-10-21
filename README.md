@@ -445,7 +445,7 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 ## 📧 Contacto
 
 **Desarrollador:** Sebastian Scuadroni / Amanda Software
-**Email:** jaime@amandasoft.com
+**Email:** corinoah1013@gmail.com
 **Versión:** 1.3.0
 **Fecha:** 21 de octubre de 2025
 
